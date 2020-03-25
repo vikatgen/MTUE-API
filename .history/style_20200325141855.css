@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#listContainer {
+  margin-top: 40px;
+  width: 500px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-around;
+}
